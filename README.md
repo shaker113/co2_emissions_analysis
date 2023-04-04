@@ -24,7 +24,12 @@ Finally, I conducted a regression analysis to model the relationship between CO2
 
 The resulting visualizations and analysis are included in the Jupyter notebook 'notebook.ipynb'.
 
-[![Alt text](https://drive.google.com/file/d/1BuM1b4s_OHzfetAmPXu0tUZ-MJsJ7L8S/view?usp=share_link)](https://drive.google.com/file/d/1BuM1b4s_OHzfetAmPXu0tUZ-MJsJ7L8S/view?usp=share_link)
+![CO2 Emissions and Agricultural land](https://user-images.githubusercontent.com/112093285/229786197-f0fb7a4b-d694-4e20-a685-e66fb5d6961c.png)
+![Jordan temps distribution for different time period](https://user-images.githubusercontent.com/112093285/229786204-cdbdcd0f-0a64-45a0-8979-5cd80d4b89a4.png)
+![CO2 Emissions and temperature](https://user-images.githubusercontent.com/112093285/229786205-a2015ae1-33fb-45c6-bc28-e6119d520023.png)
+![Jordan precipitation Distribution](https://user-images.githubusercontent.com/112093285/229786208-98e1aeba-0ff6-4597-83a4-a7799ca2b334.png)
+![Temperature in Jordan](https://user-images.githubusercontent.com/112093285/229786211-758ab9cb-81f1-48d5-b254-391f9b77e8d7.png)
+![Precipitation in Jordan](https://user-images.githubusercontent.com/112093285/229786214-4bb4a28a-8a40-4f10-b709-6a4e4daa2d73.png)
 
 ## Conclusion
 The analysis shows a clear upward trend in atmospheric CO2 concentrations over the past few decades, and a corresponding increase in temperature in Jordan. The line plot suggest a strong positive correlation between CO2 and temperature. This indicates that as CO2 levels continue to rise, temperatures in Jordan are likely to continue to increase as well.
