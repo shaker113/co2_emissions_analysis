@@ -21,6 +21,8 @@ I started by importing the data into a Jupyter Notebook using the pandas library
 Next, I created visualizations to explore the trends in CO2 emissions over time. I used line plots to show the overall trend in CO2 emissions and bar plots to show the yearly change in emissions.
 
 Finally, I conducted a regression analysis to model the relationship between CO2 emissions and time. I found that there was a significant positive relationship between the two variables, indicating that CO2 emissions have been increasing over time in Jordan.
+
+### CO2 Emissions and Temperature in Jordan
 ![CO2 Emissions and temperature](https://user-images.githubusercontent.com/112093285/229786205-a2015ae1-33fb-45c6-bc28-e6119d520023.png)
 
 ### CO2 Emissions and Agricultural land
