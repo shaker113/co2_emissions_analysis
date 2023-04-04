@@ -27,7 +27,8 @@ Finally, I conducted a regression analysis to model the relationship between CO2
 ![CO2 Emissions and temperature](https://user-images.githubusercontent.com/112093285/229786205-a2015ae1-33fb-45c6-bc28-e6119d520023.png)
 
 ### CO2 Emissions and Agricultural land
-![CO2 Emissions and Agricultural land](https://user-images.githubusercontent.com/112093285/229786197-f0fb7a4b-d694-4e20-a685-e66fb5d6961c.png)
+![CO2 Emissions and Agricultural land](https://user-images.githubusercontent.com/112093285/229787811-77facd09-ac95-400d-8814-5829442e61ad.png)
+
 
 ### Jordan Temperature distribution over time
 ![Temperature in Jordan](https://user-images.githubusercontent.com/112093285/229786211-758ab9cb-81f1-48d5-b254-391f9b77e8d7.png)
