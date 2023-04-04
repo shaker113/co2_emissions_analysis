@@ -24,23 +24,23 @@ Finally, I conducted a regression analysis to model the relationship between CO2
 
 
 ### CO2 Emissions and Temperature in Jordan
-![CO2 Emissions and temperature](https://user-images.githubusercontent.com/112093285/229786205-a2015ae1-33fb-45c6-bc28-e6119d520023.png)
+![CO2 Emissions and temperature](https://user-images.githubusercontent.com/112093285/229790956-9427cc2c-3b4e-4818-bda5-88bd17b8ed60.png)
 
 ### CO2 Emissions and Agricultural land
-![CO2 Emissions and Agricultural land](https://user-images.githubusercontent.com/112093285/229787811-77facd09-ac95-400d-8814-5829442e61ad.png)
+![CO2 Emissions and Agricultural land](https://user-images.githubusercontent.com/112093285/229790975-5c8fecbd-b423-48f9-a782-76b143acc8f1.png)
 
 
 ### Jordan Temperature distribution over time
-![Temperature in Jordan](https://user-images.githubusercontent.com/112093285/229786211-758ab9cb-81f1-48d5-b254-391f9b77e8d7.png)
+![Temperature in Jordan](https://user-images.githubusercontent.com/112093285/229791030-23779636-19d3-444a-b693-b73af243460c.png)
 
 ### Jordan Temperature distribution for different time period
-![Jordan temps distribution for different time period](https://user-images.githubusercontent.com/112093285/229786204-cdbdcd0f-0a64-45a0-8979-5cd80d4b89a4.png)
+![Jordan temps distribution for different time period](https://user-images.githubusercontent.com/112093285/229791002-d8ee5121-9430-4f04-8c6e-2e18163ff94a.png)
 
 ### Jordan Precipitation distribution over time
-![Precipitation in Jordan](https://user-images.githubusercontent.com/112093285/229786214-4bb4a28a-8a40-4f10-b709-6a4e4daa2d73.png)
+![Precipitation in Jordan](https://user-images.githubusercontent.com/112093285/229791066-92f5a2a6-6dc6-4bdb-b873-4f74277e9721.png)
 
 ### Jordan precipitation Distribution for different time period
-![Jordan precipitation Distribution](https://user-images.githubusercontent.com/112093285/229786208-98e1aeba-0ff6-4597-83a4-a7799ca2b334.png)
+![Jordan precipitation Distribution](https://user-images.githubusercontent.com/112093285/229791047-b4f9d74b-9592-42a2-b6f8-f198ddd53034.png)
 
 The other resulting visualizations and analysis are included in the Jupyter notebook 'notebook.ipynb'.
 
